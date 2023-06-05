@@ -22,4 +22,5 @@ Acá otro ejemplo con la malla curricular de Ingeniería Física:
 ![descarga3](https://github.com/thsergitox/Generator-of-graphs-for-a-curricular-grid/assets/100462105/12c6a57b-5a46-4437-8ab3-24bec7702921)
 
 Acá otro ejemplo con la malla curricular de Ingeniera de Sistemas:
-![descarga4](https://github.com/thsergitox/Generator-of-graphs-for-a-curricular-grid/assets/100462105/70efd4de-82f8-4283-a886-bd68f036a760)
+![descarga (3)](https://github.com/thsergitox/Generator-of-graphs-for-a-curricular-grid/assets/100462105/f68c3c41-1a17-4f61-812e-a4c8d59fe681)
+
