@@ -12,8 +12,14 @@ Tras descargar el pdf, nomas basta que el estudiante lo coloque en la misma carp
 Para correr el código en nuestros ordenadores necesitaremos descargar el Ghostscript de la libería camelot, este se encarga de la correcta lectura del pdf. Lo pueden hacer en el siguiente link:
 https://camelot-py.readthedocs.io/en/master/user/install-deps.html
 
-Acá un ejemplo con la malla curricualar de Computer Sciencie:
+Acá un ejemplo con la malla curricular de Computer Sciencie:
 ![descarga (2)](https://github.com/thsergitox/Generator-of-graphs-for-a-curricular-grid/assets/100462105/cfe870cd-6341-4b1b-885c-8053080c5560)
  
-Acá otro ejemplo con la malla curricualar de Química:
+Acá otro ejemplo con la malla curricular de Química:
 ![descarga (1)](https://github.com/thsergitox/Generador-de-grafos-para-una-malla-curricular/assets/100462105/867ad1d0-e7bf-4984-8591-8d7913939ec6)
+
+Acá otro ejemplo con la malla curricular de Ingeniería Física:
+![descarga3](https://github.com/thsergitox/Generator-of-graphs-for-a-curricular-grid/assets/100462105/12c6a57b-5a46-4437-8ab3-24bec7702921)
+
+Acá otro ejemplo con la malla curricular de Ingeniera de Sistemas:
+![descarga4](https://github.com/thsergitox/Generator-of-graphs-for-a-curricular-grid/assets/100462105/70efd4de-82f8-4283-a886-bd68f036a760)
