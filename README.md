@@ -1,4 +1,10 @@
-# Generador-de-grafos-para-una-malla-curricular
+# Generator-of-graphs-for-a-curricular-grid / Generador-de-grafos-para-una-malla-curricular
+With this code all the students of the Universidad Nacional de Ingeniería, will be able to generate the for their curricular mesh with the pdf provided by ORCE of curricular advance. https://www.academico.uni.edu.pe/alumno/avance-curricular After downloading the pdf, the student just needs to place it in the same folder and Voila, your graph will be generated automatically.
+
+To run the code in our computers we will need to download the Ghostscript of the camelot library, this is in charge of the correct reading of the pdf. You can do it in the following link: https://camelot-py.readthedocs.io/en/master/user/install-deps.html
+
+--
+
 Con este código todos los estudiantes de la Universidad Nacional de Ingeniería, podrán generar el para su malla curricular con el pdf proporcionado de ORCE de avance curricular.
 https://www.academico.uni.edu.pe/alumno/avance-curricular
 Tras descargar el pdf, nomas basta que el estudiante lo coloque en la misma carpeta y Voila!, se generó tu grafo automáticamente.
